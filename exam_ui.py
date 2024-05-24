@@ -4,6 +4,7 @@ import customtkinter as ctk
 # Create the main window
 root = ctk.CTk()
 
+
 # Set the title and size of the window
 root.title("Fancy Application")
 root.geometry("500x300")
