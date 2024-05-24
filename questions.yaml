@@ -1,0 +1,23 @@
+question1:
+  id: 1
+  question: "What is the capital of France?"
+  options:
+    - "Berlin"
+    - "Paris"
+    - "Madrid"
+    - "Rome"
+  answer: 2
+
+
+question2:
+  id: 2
+  question: "Which programming language is this application written in?"
+  options:
+    - "Java"
+    - "Python"
+    - "C++"
+    - "JavaScript"
+  answer: 2
+
+
+# Add more questions as needed
